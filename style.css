@@ -1,0 +1,42 @@
+
+#calculatorBody{
+
+    
+ 
+}
+#tableContainer{
+	width:  200px;
+    height: 300px;
+}
+#table{
+  margin:0px;
+  width:  200px;
+  height: 300px;
+  background-color: #1d2d50;
+
+}
+
+.button{
+	  
+	  width: 50px;
+	  height: 60px;
+	  background-color: #133b5c;
+	  color: #f6f6f6;
+ 
+}
+#display{
+	width: 150px;
+	height: 60px;
+}
+/*
+.button {
+  background-color: #4CAF50; 
+  border: none;
+  color: white;
+  padding: 15px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+}*/
+
+
