@@ -1,11 +1,11 @@
 
 #calculatorBody{
-
-    
+    width:  500px;
+    margin: auto;
  
 }
 #tableContainer{
-	width:  200px;
+	  width:  200px;
     height: 300px;
 }
 #table{
@@ -27,16 +27,9 @@
 #display{
 	width: 150px;
 	height: 60px;
+  text-align: right;
+  font-size: 20px;
 }
-/*
-.button {
-  background-color: #4CAF50; 
-  border: none;
-  color: white;
-  padding: 15px;
-  text-align: center;
-  display: inline-block;
-  font-size: 16px;
-}*/
+
 
 
